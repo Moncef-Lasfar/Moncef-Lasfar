@@ -4,6 +4,7 @@
   <rect width="112" height="28" rx="5"
         fill="#0B1422" stroke="#244568"/>
 
+  <!-- CSS3 Shield -->
   <g transform="translate(3 1) scale(0.85)">
     <path fill="#1572B6"
           d="M0 0H26L23.5 24L13 28L2.5 24Z"/>
@@ -11,6 +12,7 @@
     <path fill="#33A9DC"
           d="M13 0H26L23.5 24L13 28Z"/>
 
+    <!-- CSS3 Logo -->
     <path fill="#FFFFFF"
           d="M5.5 5H22L21.5 8H9L9.4 11H20.8L20 18.5L13 21L6.2 18.5L5.8 14H9L9.3 16.2L13 17.5L17 16.1L17.3 13.8H9L8.1 5Z"/>
   </g>
