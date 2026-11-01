@@ -34,8 +34,12 @@ My studies combine programming fundamentals, computer networks, operating system
   <img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=cplusplus&logoColor=659AD2" alt="C++">
   <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java">
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-0B1422?style=for-the-badge&logo=css3&logoColor=1572B6"
-     alt="CSS3">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+       width="28"
+       height="28"
+       alt="CSS3">
+</a>
 </p>
 
 ### Networking
