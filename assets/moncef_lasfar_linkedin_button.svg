@@ -11,7 +11,7 @@
     <stop offset="1" stop-color="#0755b8"/>
   </linearGradient>
 </defs>
-<rect x="1" y="1" width="470" height="52" rx="10" fill="url(#panel)" stroke="#24547d" stroke-width="1.2"/>
+<rect x="1" y="1" width="470" height="57" rx="10" fill="url(#panel)" stroke="#24547d" stroke-width="1.2"/>
 <rect x="10" y="8" width="44" height="42" rx="7" fill="url(#linkedin)" stroke="#28aaff" stroke-width="1.2"/>
 <g fill="#fff">
   <circle cx="21" cy="19" r="3.1"/>
