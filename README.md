@@ -16,6 +16,23 @@ I'm a second-year **Cybersecurity and Systems & Networks Administration** studen
 
 My studies combine programming fundamentals, computer networks, operating systems, and information security. I enjoy applying what I learn through practical projects and technical labs.
 
+## Academic Background
+
+**Year 2 · Cybersecurity and Systems & Networks Administration**
+
+My curriculum includes:
+
+| Area | Coursework |
+|---|---|
+| Networking & infrastructure | Networks, Advanced Networks & Virtualization, Computer Architecture |
+| Systems | Operating Systems I & II, Systems & Networks Administration |
+| Cybersecurity | Information Security, Security by Design, IT Security Governance |
+| Cryptography | Cryptography & Blockchain |
+| Programming | C, Python, C++, Java, Web Development |
+| Data & engineering | Relational Databases, Database Programming, Data Mining, UML, Compilation |
+
+*Coursework reflects the programme structure; practical tools above are listed from my own provided skills inventory.*
+
 ## Focus Areas
 
 <p align="center">
@@ -63,23 +80,6 @@ My studies combine programming fundamentals, computer networks, operating system
   <img src="https://img.shields.io/badge/Burp_Suite-111827?style=for-the-badge&logo=burpsuite&logoColor=FF6633" alt="Burp Suite">
   <img src="https://img.shields.io/badge/Kali_Linux-111827?style=for-the-badge&logo=kalilinux&logoColor=557C94" alt="Kali Linux">
 </p>
-
-## Academic Background
-
-**Year 2 · Cybersecurity and Systems & Networks Administration**
-
-My curriculum includes:
-
-| Area | Coursework |
-|---|---|
-| Networking & infrastructure | Networks, Advanced Networks & Virtualization, Computer Architecture |
-| Systems | Operating Systems I & II, Systems & Networks Administration |
-| Cybersecurity | Information Security, Security by Design, IT Security Governance |
-| Cryptography | Cryptography & Blockchain |
-| Programming | C, Python, C++, Java, Web Development |
-| Data & engineering | Relational Databases, Database Programming, Data Mining, UML, Compilation |
-
-*Coursework reflects the programme structure; practical tools above are listed from my own provided skills inventory.*
 
 ## Featured Project
 
