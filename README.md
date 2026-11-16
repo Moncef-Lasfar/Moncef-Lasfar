@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="assets/moncef-kali-profile-banner.png" alt="Moncef Lasfar — Cybersecurity Student, Kali Linux integrated banner" width="100%">
+  <img
+    src="https://raw.githubusercontent.com/Moncef-Lasfar/Moncef-Lasfar/main/assets/moncef-kali-profile-banner.png"
+    alt="Moncef Lasfar — Cybersecurity Student"
+    width="100%"
+    style="border-radius: 25px;"
+  >
 </p>
 
 <div align="center">
