@@ -3,7 +3,6 @@
     src="https://raw.githubusercontent.com/Moncef-Lasfar/Moncef-Lasfar/main/assets/moncef-kali-profile-banner.png"
     alt="Moncef Lasfar — Cybersecurity Student"
     width="100%"
-    style="border-radius: 25px;"
   >
 </p>
 
@@ -41,10 +40,7 @@ My curriculum includes:
 ## Focus Areas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer_Networks-111827?style=for-the-badge&logo=cisco&logoColor=58A6FF" alt="Computer Networks">
-  <img src="https://img.shields.io/badge/Systems_Administration-111827?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Systems Administration">
-  <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Cybersecurity">
-  <img src="https://img.shields.io/badge/Programming-111827?style=for-the-badge&logo=code&logoColor=58A6FF" alt="Programming">
+  <img src="assets/focus-areas.svg" alt="Computer Networks, Systems Administration, Cybersecurity, Programming">
 </p>
 
 ## Technical Skills
