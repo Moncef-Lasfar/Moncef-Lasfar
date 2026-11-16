@@ -88,7 +88,7 @@ A menu-driven C application for managing patient records. It demonstrates struct
 
 <p align="center">
   <a href="https://www.linkedin.com/in/moncef-lasfar-510a17403/">
-    <img src="assets/moncef_lasfar_linkedin_button.svg" alt="Linkedin Profile — Moncef-Lassfar">
+    <img src="assets/moncef_lasfar_linkedin_button.svg " alt="Linkedin Profile — Moncef-Lassfar">
   </a>
 </p>
 
