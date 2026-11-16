@@ -18,19 +18,20 @@
  <rect x="1" y="1" width="428" height="57" rx="10" fill="url(#panel)" stroke="#24547d" stroke-width="1.2"/>
 
   <!-- Project Folder Icon -->
-  <path
-    d="M17 16
-       a4 4 0 0 1 4-4
-       h13 l5 5 h13
-       a4 4 0 0 1 4 4
-       v16
-       a4 4 0 0 1-4 4
-       H21
-       a4 4 0 0 1-4-4z"
-    fill="none"
-    stroke="#39A7FF"
-    stroke-width="2"
-  />
+ <path
+  d="M17 16
+     a4 4 0 0 1 4-4
+     h13 l5 5 h13
+     a4 4 0 0 1 4 4
+     v16
+     a4 4 0 0 1-4 4
+     H21
+     a4 4 0 0 1-4-4z"
+  transform="translate(-5 -5) scale(1.25)"
+  fill="none"
+  stroke="#39A7FF"
+  stroke-width="2"
+/>
 
   <!-- Code Icon -->
   <path
