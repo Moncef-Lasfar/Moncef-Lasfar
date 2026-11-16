@@ -87,8 +87,8 @@ A menu-driven C application for managing patient records. It demonstrates struct
 ## Connect
 
 <p align="center">
-  <a href="https://github.com/Moncef-Lassfar">
-    <img src="assets/github-connect.svg" alt="GitHub Profile — Moncef-Lassfar">
+  <a href="https://www.linkedin.com/in/moncef-lasfar-510a17403/">
+    <img src="moncef_lasfar_linkedin_button.svg" alt="Linkedin Profile — Moncef-Lassfar">
   </a>
 </p>
 
