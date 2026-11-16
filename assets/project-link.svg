@@ -38,6 +38,7 @@
     d="m30 22-5 5 5 5
        m10-10 5 5-5 5
        m-3-12-4 14"
+       transform="translate(-10 -5) scale(1.25)"
     fill="none"
     stroke="#EAF2FF"
     stroke-width="1.8"
