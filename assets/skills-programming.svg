@@ -10,7 +10,7 @@
   <rect
     x="1" y="1"
     width="66" height="32"
-    rx="16"
+    rx="10"
     fill="#111827"
     stroke="#26364B"
   />
@@ -39,7 +39,7 @@
   <rect
     x="77" y="1"
     width="115" height="32"
-    rx="16"
+    rx="10"
     fill="#111827"
     stroke="#26364B"
   />
@@ -68,7 +68,7 @@
   <rect
     x="202" y="1"
     width="87" height="32"
-    rx="16"
+    rx="10"
     fill="#111827"
     stroke="#26364B"
   />
@@ -97,7 +97,7 @@
   <rect
     x="299" y="1"
     width="91" height="32"
-    rx="16"
+    rx="10"
     fill="#111827"
     stroke="#26364B"
   />
@@ -126,7 +126,7 @@
   <rect
     x="400" y="1"
     width="105" height="32"
-    rx="16"
+    rx="10"
     fill="#111827"
     stroke="#26364B"
   />
@@ -155,7 +155,7 @@
   <rect
     x="515" y="1"
     width="93" height="32"
-    rx="16"
+    rx="10"
     fill="#111827"
     stroke="#26364B"
   />
