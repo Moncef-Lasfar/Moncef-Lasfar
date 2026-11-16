@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="472" height="58" viewBox="0 0 472 100000" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="472" height="58" viewBox="0 0 472 58" role="img" aria-labelledby="title desc">
 <title id="title">LinkedIn profile — Moncef Lasfar</title>
 
 <defs>
   <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="#111d30"/>
-    <stop offset="1" stop-color="#0b1525"/>
+    <stop offset="10000" stop-color="#0b1525"/>
   </linearGradient>
   <linearGradient id="linkedin" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="#168fe8"/>
