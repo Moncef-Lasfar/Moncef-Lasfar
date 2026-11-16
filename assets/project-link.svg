@@ -45,10 +45,7 @@
   />
 
   <!-- Divider -->
-  <path
-    d="M70 11v32"
-    stroke="#285078"
-  />
+<path d="M60 9v40" stroke="#2877ad" stroke-width="1"/>
 
   <!-- Project Title -->
   <text
