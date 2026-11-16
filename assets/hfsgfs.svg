@@ -8,12 +8,12 @@
   <title id="title">LinkedIn profile — Moncef Lasfar</title>
 
   <image
-    href="assets/moncef-kali-profile-banner.png"
-    x="1"
-    y="1"
-    width="100%"
-    height="100%"
-    preserveAspectRatio="xMidYMid meet"
-  />
+  href="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/assets/moncef-kali-profile-banner.png"
+  x="0"
+  y="0"
+  width="472"
+  height="58"
+  preserveAspectRatio="xMidYMid meet"
+/>
 
 </svg>
