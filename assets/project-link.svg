@@ -75,13 +75,7 @@
   </text>
 
   <!-- Right Arrow -->
-  <path
-    d="m405 21 7 6-7 6
-       m7-6h-14"
-    fill="none"
-    stroke="#39A7FF"
-    stroke-width="2"
-  />
+  <path d="M390 29h14m-6-6 6 6-6 6" fill="none" stroke="#28aaff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 
 </svg>
 
