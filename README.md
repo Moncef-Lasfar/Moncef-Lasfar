@@ -45,28 +45,16 @@ My curriculum includes:
 ## Technical Skills
 
 ### Programming
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="assets/skills-programming.svg" alt="C, Python, C++, Java, HTML5, CSS3">
 
 ### Networking
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![VLANs](https://img.shields.io/badge/VLANs-005073?style=for-the-badge&logo=cisco&logoColor=white)
-![Routing](https://img.shields.io/badge/Routing-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
-![Switching](https://img.shields.io/badge/Switching-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+<img src="assets/skills-networking.svg" alt="Cisco Packet Tracer, VLANs, Routing, Switching">
 
 ### Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+<img src="assets/skills-systems.svg" alt="Linux, Windows Server">
 
 ### Security Tools
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=gnometerminal&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+<img src="assets/skills-security.svg" alt="Wireshark, Nmap, Burp Suite, Kali Linux">
 
 ## Featured Project
 
