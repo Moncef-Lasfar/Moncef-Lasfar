@@ -27,7 +27,7 @@
      a4 4 0 0 1-4 4
      H21
      a4 4 0 0 1-4-4z"
-  transform="translate(-5 -5) scale(1.25)"
+  transform="translate(-10 -5) scale(1.25)"
   fill="none"
   stroke="#39A7FF"
   stroke-width="2"
