@@ -8,20 +8,14 @@
   <title id="title">Patient Management System</title>
 
   <defs>
-    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#111d30"/>
-      <stop offset="1" stop-color="#0b1525"/>
-    </linearGradient>
+   <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#111d30"/>
+    <stop offset="1" stop-color="#0b1525"/>
+   </linearGradient>
   </defs>
 
   <!-- Background -->
-  <rect
-    x="1" y="1"
-    width="428" height="57"
-    rx="8"
-    fill="#101827"
-    stroke="#24547d"
-  />
+ <rect x="1" y="1" width="428" height="57" rx="10" fill="url(#panel)" stroke="#24547d" stroke-width="1.2"/>
 
   <!-- Project Folder Icon -->
   <path
