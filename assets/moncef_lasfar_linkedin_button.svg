@@ -12,7 +12,7 @@
   </linearGradient>
 </defs>
 <rect x="1" y="1" width="470" height="56" rx="10" fill="url(#panel)" stroke="#24547d" stroke-width="1.2"/>
-<rect x="10" y="8" width="38" height="42" rx="7" fill="url(#linkedin)" stroke="#28aaff" stroke-width="1.2"/>
+<rect x="10" y="8" width="42" height="42" rx="7" fill="url(#linkedin)" stroke="#28aaff" stroke-width="1.2"/>
 <g fill="#fff">
   <circle cx="21" cy="19" r="3.1"/>
   <path d="M17.8 24h6.4v18h-6.4z"/>
