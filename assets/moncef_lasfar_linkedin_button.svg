@@ -2,9 +2,9 @@
 <title id="title">LinkedIn profile — Moncef Lasfar</title>
 
 <defs>
-  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="10000000">
     <stop offset="0" stop-color="#111d30"/>
-    <stop offset="10000" stop-color="#0b1525"/>
+    <stop offset="1" stop-color="#0b1525"/>
   </linearGradient>
   <linearGradient id="linkedin" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="#168fe8"/>
