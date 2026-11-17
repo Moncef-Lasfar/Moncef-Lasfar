@@ -8,13 +8,6 @@
   I learn by building: practical projects and technical labs around systems, networks, and security.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/moncef-lasfar-510a17403/">
-    <img src="assets/moncef_lasfar_linkedin_button.svg" alt="LinkedIn profile — Moncef Lasfar" width="430">
-  </a>
-</p>
-
-
 ## Technical Skills
 
 <img src="assets/skills-card.svg" alt="Programming: C, Python, C++, Java, HTML5, CSS3. Networking: Cisco Packet Tracer, VLANs, Routing, Switching. Systems: Linux, Windows Server. Security tools: Wireshark, Nmap, Burp Suite, Kali Linux." width="100%">
@@ -45,6 +38,12 @@
 ## Currently Exploring
 
 Network configuration and troubleshooting · Linux and Windows administration · Traffic analysis and security testing in authorized labs · Secure software fundamentals
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/moncef-lasfar-510a17403/">
+    <img src="assets/moncef_lasfar_linkedin_button.svg" alt="LinkedIn profile — Moncef Lasfar" width="430">
+  </a>
+</p>
 
 <div align="center">
   <sub>Learn continuously. Build deliberately. Secure by design.</sub>
