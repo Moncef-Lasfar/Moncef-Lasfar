@@ -14,15 +14,6 @@
   </a>
 </p>
 
-## Featured Project
-
-<p align="center">
-  <a href="https://github.com/Moncef-Lassfar/patient-management-system">
-    <img src="assets/project-card.svg" alt="Patient Management System — a menu-driven C application for managing patient records: create, view, update, delete, search, sort, filter and local file storage. View repository." width="100%">
-  </a>
-</p>
-
-> Educational programming project only, not a production medical system. It uses fictional data.
 
 ## Technical Skills
 
@@ -45,6 +36,16 @@
 | Cryptography | Cryptography & Blockchain |
 | Programming | C, Python, C++, Java, Web Development |
 | Data & engineering | Relational Databases, Database Programming, Data Mining, UML, Compilation |
+
+## Featured Project
+
+<p align="center">
+  <a href="https://github.com/Moncef-Lassfar/patient-management-system">
+    <img src="assets/project-card.svg" alt="Patient Management System — a menu-driven C application for managing patient records: create, view, update, delete, search, sort, filter and local file storage. View repository." width="100%">
+  </a>
+</p>
+
+> Educational programming project only, not a production medical system. It uses fictional data.
 
 ## Currently Exploring
 
