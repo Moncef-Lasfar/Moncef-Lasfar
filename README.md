@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/moncef-kali-profile-banner.svg" alt="Cybersecurity &amp; IT Infrastructure" width="100%">
-</p>
 
 ## Technical Skills
 
