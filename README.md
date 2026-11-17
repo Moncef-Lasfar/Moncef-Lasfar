@@ -17,12 +17,7 @@
 
 ## Technical Skills
 
-| | |
-|---|---|
-| **Programming** | <img src="assets/skills-programming.svg" alt="C, Python, C++, Java, HTML5, CSS3"> |
-| **Networking** | <img src="assets/skills-networking.svg" alt="Cisco Packet Tracer, VLANs, Routing, Switching"> |
-| **Systems** | <img src="assets/skills-systems.svg" alt="Linux, Windows Server"> |
-| **Security tools** | <img src="assets/skills-security.svg" alt="Wireshark, Nmap, Burp Suite, Kali Linux"> |
+<img src="assets/skills-card.svg" alt="Programming: C, Python, C++, Java, HTML5, CSS3. Networking: Cisco Packet Tracer, VLANs, Routing, Switching. Systems: Linux, Windows Server. Security tools: Wireshark, Nmap, Burp Suite, Kali Linux." width="100%">
 
 ## Education
 
