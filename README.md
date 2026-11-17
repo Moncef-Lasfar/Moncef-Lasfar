@@ -34,12 +34,6 @@ My curriculum includes:
 
 *Coursework reflects the programme structure; practical tools above are listed from my own provided skills inventory.*
 
-## Focus Areas
-
-<p align="center">
-  <img src="assets/focus-areas.svg" alt="Computer Networks, Systems Administration, Cybersecurity, Programming">
-</p>
-
 ## Technical Skills
 
 ### Programming
