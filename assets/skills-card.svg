@@ -56,8 +56,8 @@
   <rect x="250" y="218.0" width="101" height="32" rx="16" fill="#0d1624" stroke="#3ddc84" stroke-opacity="0.5"/>
   <circle cx="264" cy="234.0" r="3" fill="#3ddc84"/>
   <text x="276" y="239.0" class="sans" font-size="14" font-weight="600" fill="#C9D6E8">Wireshark</text>
-  <rect x="361" y="218.0" width="62" height="32" rx="16" fill="#0d1624" stroke="#3ddc84" stroke-opacity="0.5"/>
-  <circle cx="380" cy="234.0" r="3" fill="#3ddc84"/>
+  <rect x="361" y="218.0" width="70" height="32" rx="16" fill="#0d1624" stroke="#3ddc84" stroke-opacity="0.5"/>
+  <circle cx="375" cy="234.0" r="3" fill="#3ddc84"/>
   <text x="387" y="239.0" class="sans" font-size="14" font-weight="600" fill="#C9D6E8">Nmap</text>
   <rect x="433" y="218.0" width="109" height="32" rx="16" fill="#0d1624" stroke="#3ddc84" stroke-opacity="0.5"/>
   <circle cx="447" cy="234.0" r="3" fill="#3ddc84"/>
