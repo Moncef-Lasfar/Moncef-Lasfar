@@ -1,9 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Moncef-Lasfar/Moncef-Lasfar/main/assets/moncef-kali-profile-banner.png"
-    alt="Moncef Lasfar — Cybersecurity Student"
-    width="100%"
-  >
+    src="assets/moncef-kali-profile-banner.png" alt="Moncef Lasfar — Cybersecurity Student" width="100%">
 </p>
 
 <div align="center">
