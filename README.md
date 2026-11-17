@@ -2,7 +2,6 @@
   <img src="assets/moncef-kali-profile-banner.svg" alt="Cybersecurity &amp; IT Infrastructure" width="100%">
 </p>
 
-
 <p align="center">
   Second-year student in <b>Cybersecurity and Systems &amp; Networks Administration</b>.<br>
   I learn by building: practical projects and technical labs around systems, networks, and security.
