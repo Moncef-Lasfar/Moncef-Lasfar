@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/moncef-kali-profile-banner.svg" alt="Cybersecurity & IT Infrastructure" width="100%">
+</p>
 
 
 <p align="center">
