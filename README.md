@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/moncef-kali-profile-banner.svg" alt="Cybersecurity & IT Infrastructure" width="100%">
+  <img src="assets/moncef-kali-profile-banner.svg" alt="Cybersecurity &amp; IT Infrastructure" width="100%">
 </p>
 
 
@@ -39,7 +39,13 @@
 
 ## Featured Project
 
+<p align="center">
+  <a href="https://github.com/Moncef-Lassfar/patient-management-system">
+    <img src="assets/project-card.svg" alt="Patient Management System — a menu-driven C application for managing patient records: create, view, update, delete, search, sort, filter and local file storage. View repository." width="100%">
+  </a>
+</p>
 
+> Educational programming project only, not a production medical system. It uses fictional data.
 
 ## Currently Exploring
 
