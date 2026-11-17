@@ -66,7 +66,7 @@
     <!-- identity -->
     <text x="62" y="160" class="sans" font-size="74" font-weight="800" fill="#e6edf6" letter-spacing="-2">Moncef Lasfar</text>
     <rect x="66" y="180" width="260" height="3" rx="1.5" fill="url(#bar)"/>
-    <text x="66" y="224" class="sans" font-size="30" font-weight="600" fill="#5b9bff">"Cybersecurity & IT Infrastructure"</text>
+    <text x="66" y="224" class="sans" font-size="30" font-weight="600" fill="#5b9bff">Cybersecurity & IT Infrastructure</text>
 
     <!-- Kali terminal -->
     <rect x="690" y="58" width="520" height="258" rx="12" fill="#367bf0" opacity="0.28" filter="url(#blur)"/>
