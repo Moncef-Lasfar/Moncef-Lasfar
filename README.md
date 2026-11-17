@@ -1,95 +1,67 @@
 <p align="center">
-  <img
-    src="assets/moncef-kali-profile-banner.svg" alt="Moncef Lasfar — Cybersecurity Student" width="100%">
+  <img src="assets/moncef-kali-profile-banner.svg" alt="Moncef Lasfar — Cybersecurity Student" width="100%">
 </p>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg">
-    <img src="assets/profile-dark.svg" alt="Profile overview" width="100%">
-  </picture>
-</div>
+## Profile
 
-## About Me
+I'm a second-year **Cybersecurity and Systems & Networks Administration** student. My studies cover programming, computer networks, operating systems, and information security. I use practical projects and technical labs to strengthen my understanding of how systems work and how they can be secured.
 
-I'm a second-year **Cybersecurity and Systems & Networks Administration** student interested in understanding how systems communicate, how networks are built, and how digital environments can be secured.
-
-My studies combine programming fundamentals, computer networks, operating systems, and information security. I enjoy applying what I learn through practical projects and technical labs.
-
-## Academic Background
+## Education
 
 **Year 2 · Cybersecurity and Systems & Networks Administration**
 
-My curriculum includes:
-
-| Area | Coursework |
-|---|---|
-| Networking & infrastructure | Networks, Advanced Networks & Virtualization, Computer Architecture |
-| Systems | Operating Systems I & II, Systems & Networks Administration |
-| Cybersecurity | Information Security, Security by Design, IT Security Governance |
-| Cryptography | Cryptography & Blockchain |
-| Programming | C, Python, C++, Java, Web Development |
-| Data & engineering | Relational Databases, Database Programming, Data Mining, UML, Compilation |
-
-*Coursework reflects the programme structure; practical tools above are listed from my own provided skills inventory.*
-
-## Focus Areas
-
-<p align="center">
-  <img src="assets/focus-areas.svg" alt="Computer Networks, Systems Administration, Cybersecurity, Programming">
-</p>
+Relevant coursework:
+- **Networking:** Computer Networks, Advanced Networks & Virtualization, Computer Architecture
+- **Systems:** Operating Systems I & II, Systems & Networks Administration
+- **Security:** Information Security, Security by Design, IT Security Governance
+- **Programming & Data:** C, Python, C++, Java, Web Development, Relational Databases, Data Mining, UML, Compilation
+- **Cryptography:** Cryptography & Blockchain
 
 ## Technical Skills
 
 ### Programming
-<img src="assets/skills-programming.svg" alt="C, Python, C++, Java, HTML5, CSS3">
+<img src="assets/skills-programming.svg" alt="C, Python, C++, Java, HTML5 and CSS3" width="100%">
 
 ### Networking
-<img src="assets/skills-networking.svg" alt="Cisco Packet Tracer, VLANs, Routing, Switching">
+<img src="assets/skills-networking.svg" alt="Cisco Packet Tracer, VLANs, Routing and Switching" width="100%">
 
 ### Systems
-<img src="assets/skills-systems.svg" alt="Linux, Windows Server">
+<img src="assets/skills-systems.svg" alt="Linux and Windows Server" width="100%">
 
 ### Security Tools
-<img src="assets/skills-security.svg" alt="Wireshark, Nmap, Burp Suite, Kali Linux">
+<img src="assets/skills-security.svg" alt="Wireshark, Nmap, Burp Suite and Kali Linux" width="100%">
 
 ## Featured Project
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/Moncef-Lassfar/patient-management-system">
-    <img src="assets/project-link.svg" alt="Patient Management System — C Project — View Repository">
+    <img src="assets/featured-project.svg" alt="Patient Management System in C — View project repository" width="100%">
   </a>
-</div>
+</p>
 
 **Patient Management System — C**
 
-A menu-driven C application for managing patient records. It demonstrates structured programming, CRUD operations, searching, sorting, filtering, and local file handling.
+A menu-driven application for managing patient records. The project demonstrates structured programming and basic data-management operations.
 
-- Create, view, update, and delete patient records.
+- Create, view, update, and delete records.
 - Search by patient number or last name.
 - Sort records by last name and filter by blood group.
 - Save and load records using a local text file.
 
-[View repository and source code](https://github.com/Moncef-Lassfar/patient-management-system)
+[**Explore the repository and source code →**](https://github.com/Moncef-Lassfar/patient-management-system)
 
-> Educational programming project only. It is not a production medical system. Use fictional data; do not publish real patient information.
+> Educational project only — not a production medical system. Use fictional data; never publish real patient information.
 
-## Currently Exploring
+## Contact
 
-- Network configuration and troubleshooting
-- Linux and Windows system administration
-- Network traffic analysis and security testing in authorized labs
-- Secure software and application fundamentals
-
-## Connect
-
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/moncef-lasfar-510a17403/">
-    <img src="assets/moncef_lasfar_linkedin_button.svg " alt="Linkedin Profile — Moncef-Lassfar">
+    <img src="assets/linkedin-profile.svg" alt="Connect with Moncef Lasfar on LinkedIn" width="300">
   </a>
 </p>
 
-<div align="center">
+---
+
+<p align="center">
   <sub>Learn continuously. Build deliberately. Secure by design.</sub>
-</div>
+</p>
